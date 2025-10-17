@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-multipart
+pandas
+numpy
+statsmodels
+reportlab
+psycopg2-binary
